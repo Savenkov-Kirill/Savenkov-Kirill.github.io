@@ -1,0 +1,13 @@
+<svg width="16.000000" height="16.000000" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip31_410">
+			<rect id="Mail" width="16.000000" height="16.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip31_410)">
+		<path id="Union" d="M15.16 12L15.16 4.66C15.16 3.56 14.27 2.66 13.16 2.66L2.83 2.66C1.72 2.66 0.83 3.56 0.83 4.66L0.83 12C0.83 13.1 1.72 14 2.83 14L13.16 14C14.27 14 15.16 13.1 15.16 12ZM13.83 6.17L13.83 12C13.83 12.36 13.53 12.66 13.16 12.66L2.83 12.66C2.46 12.66 2.16 12.36 2.16 12L2.16 6.17L6.87 9.37C7.55 9.83 8.44 9.83 9.12 9.37L13.83 6.17ZM13.82 4.56C13.77 4.24 13.5 4 13.16 4L2.83 4C2.49 4 2.22 4.24 2.17 4.56L7.62 8.27C7.85 8.42 8.14 8.42 8.37 8.27L13.82 4.56Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
